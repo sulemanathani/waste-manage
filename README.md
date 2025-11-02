@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 "# animated-waffle" 
 "# animated-waffle" 
@@ -12,3 +13,6 @@
 "D:\waste_management_system\images\complaints table.png"
 
 "D:\waste_management_system\images\all complaint new.png"
+=======
+# effective-enigma
+>>>>>>> badf6390d862ace3756f120e8d86d33515130c09
